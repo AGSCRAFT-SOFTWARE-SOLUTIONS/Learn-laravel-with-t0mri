@@ -1,0 +1,2 @@
+# Platform
+If you wanna do developing and you're on Windows (pathetic), you better switch to GNU/Linux or at least install WSL1. All my guides will be for GNU/Linux too. So switch to GNU/Linux or install WSL1.
